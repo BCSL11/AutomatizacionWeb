@@ -15,5 +15,7 @@ mvn package
 ejecutar test llamado RunnerTags
 
 
+A continuación se muestra un Screenshot del resultado de la ejecucion.
 
-![alt](ima-result/Captura.PNG)
+
+![](result.PNG)
