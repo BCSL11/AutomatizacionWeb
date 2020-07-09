@@ -13,3 +13,7 @@ git cdd com.automatizacionWeb
 mvn package
 
 ejecutar test llamado RunnerTags
+
+
+
+![alt](ima-result/Captura.PNG)
