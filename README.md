@@ -1,4 +1,4 @@
-# AutomatizacionWeb
+# AutomatizacionWeb con Selenium
 
 **Patron de diseño:**  Page Object Model patrón de diseño de Object Repository en Selenium WebDriver
 
