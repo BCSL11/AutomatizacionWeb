@@ -8,7 +8,7 @@
 
 git clone https://@github.com/BCSL11/AutomatizacionWeb.git
 
-git cdd com.automatizacionWeb
+git cd com.automatizacionWeb
 
 mvn package
 
